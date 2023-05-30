@@ -1,6 +1,7 @@
 # Retention-Data
 
 Another dataset from the PWC forsage virtual Intership
+the company wants to know all about customers who have churned and how to reduce the churn rate.
 Here are some of my findings:
 1. Churn Rate sat at 26.5%
 2. 64% of customers are not married
